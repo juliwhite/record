@@ -1,0 +1,11 @@
+.vscode
+records.dSYM
+# Generated files
+bin/
+gen/
+out/
+
+# Executables
+*.exe
+*.out
+*.app
